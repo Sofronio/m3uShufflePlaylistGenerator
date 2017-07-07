@@ -7,8 +7,8 @@
     <ProjectGuid>{013BC331-43B4-4C3A-8659-88B7CF50E0D4}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ShuffleplaylistGenerator</RootNamespace>
-    <AssemblyName>ShuffleplaylistGenerator</AssemblyName>
+    <RootNamespace>ShufflePlaylistGenerator</RootNamespace>
+    <AssemblyName>ShufflePlaylistGenerator</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -96,6 +96,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
